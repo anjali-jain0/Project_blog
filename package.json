@@ -5,7 +5,7 @@
   "main": "blog.js",
   "dependencies": {
     "ajax": "^0.0.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "connect-flash": "^0.1.1",
